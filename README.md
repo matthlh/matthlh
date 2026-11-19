@@ -1,14 +1,14 @@
 # Matt He
 
-I'm a third-year CS student at UBC (AI option, co-op) in Vancouver. I build AI apps with retrieval, evals, and agent workflows. I'm looking for 2027 internships in Vancouver or anywhere in the US.
+I'm in third-year CS at UBC (AI option, co-op). Most of my projects start with something I'd like to make less tedious.
 
-During my summer 2026 internship at Guangzhou Yida Jianxin Technology, I prototyped ticket retrieval for ECMS4 (Java/Spring Boot, 150+ clients), comparing LLM accuracy and cost under a token budget.
+## What I've built
 
-As a full-stack developer at AetherEditor, I built its AI writing assistant for law firms using local Ollama models. I built UBC's Llama 3 chat app for LearningCoach and MyLA and first-authored an ICQE 2022 paper on Cohen's Kappa.
+- **[school-3-1](https://github.com/matthlh/school-3-1)** — Turns my course updates into a daily plan. [Notes and quizzes](https://matthlh.github.io/school-3-1/)
+- **[groundwork](https://github.com/matthlh/groundwork)** — Tracks my internship applications and drafts outreach I send myself. [Demo](https://matthlh.github.io/groundwork/)
+- **[claude-mods](https://github.com/matthlh/claude-mods)** — A pixel cat that tracks my Claude Code usage. There's an idle game too.
+- **[air-fit-engine](https://github.com/matthlh/air-fit-engine)** — Scores how well a company fits my job search. Claude explains the score.
 
-- Claude turns course updates into daily plans. [school-3-1](https://github.com/matthlh/school-3-1) · [Notes and quizzes](https://matthlh.github.io/school-3-1/)
-- Claude drafts job outreach. A person sends it. [groundwork](https://github.com/matthlh/groundwork) · [Demo](https://matthlh.github.io/groundwork/)
-- A pixel cat tracks Claude Code usage, plus an idle game. [claude-mods](https://github.com/matthlh/claude-mods)
-- Rules score company fit. Claude explains the score. [air-fit-engine](https://github.com/matthlh/air-fit-engine)
+Last summer at Yida, I tested how well different LLMs could find support tickets on a fixed token budget.
 
-[LinkedIn](https://www.linkedin.com/in/matthlh)
+**Looking for 2027 internships in Vancouver or the US.** · [LinkedIn](https://www.linkedin.com/in/matthlh)
